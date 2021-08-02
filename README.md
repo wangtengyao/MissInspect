@@ -19,4 +19,4 @@ This repository contains implementation of the `MissInspect` algorithm described
 
 ## Reference
 
-Follain, Wang and Samworth (2021) High-dimensional changepoint estimation with heterogeneous missingness. _Preprint_
+Follain, Wang and Samworth (2021) High-dimensional changepoint estimation with heterogeneous missingness. _Preprint_.
