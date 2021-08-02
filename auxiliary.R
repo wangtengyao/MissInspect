@@ -1,3 +1,5 @@
+library(putils) # devtools::install_github('wangtengyao/putils')
+
 rms <- function(v){
   sqrt(mean(v^2))
 }
